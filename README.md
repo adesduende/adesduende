@@ -6,7 +6,7 @@ Soy técnico desarrollador de aplicaciones con experiencia en el mundo IT desde 
 
 [![LinkedIn](https://cdn-icons-png.flaticon.com/24/2504/2504923.png)](https://www.linkedin.com/in/sllobo/)
 [![Discord]( https://cdn-icons-png.flaticon.com/24/2111/2111370.png)](https://discord.com/users/661138509226049536)
-[![Mail]( https://cdn-icons-png.flaticon.com/24/726/726623.png)](info@sergiolopezlobo.es)
+[![Mail]( https://cdn-icons-png.flaticon.com/24/726/726623.png)](mailto:info@sergiolopezlobo.es)
 
 ## Tecnologías 💻
 
