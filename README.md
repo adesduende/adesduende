@@ -1,4 +1,12 @@
-### Hola mi nombre es Sergio López
+<center>
+
+# Sergio Lopez Lobo
+**Full-Stack Developer & IT Systems Specialist**
+
+*Bridging hardware expertise with software innovation*
+
+</center>
+
 
 Technician turned developer with 5+ years of hybrid experience in system infrastructure (networks, security, hardware) and full-stack development. Specialized in creating operational efficiency tools using .NET ecosystem (C#, ASP.NET Core, WinForms/WPF) and cross-platform solutions (React Native). Currently advancing skills in web development through formal education.
 
