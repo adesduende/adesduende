@@ -12,17 +12,17 @@ Technician turned developer with 5+ years of hybrid experience in system infrast
 
 Technical Pillars:
 
-🔸Backend: C#, .NET Core, RESTful APIs, SQL (MySQL/Oracle/PostgreSQL)
-🔸Frontend: React, React Native, Vanilla JS, HTML/CSS
-🔸Infrastructure: IT maintenance, security systems, network configuration
-🔸DevOps: Git, GitHub, CI/CD tools
+  - Backend: C#, .NET Core, RESTful APIs, SQL (MySQL/Oracle/PostgreSQL)
+  - Frontend: React, React Native, Vanilla JS, HTML/CSS
+  - Infrastructure: IT maintenance, security systems, network configuration
+  - DevOps: Git, GitHub, CI/CD tools
 
 Key Strengths:
 
-🔸Proven ability to develop internal tools that solve operational bottlenecks (e.g., incident management apps, real-time tracking systems)
-🔸Unique perspective from managing technical teams and warehouse/logistics operations
-🔸Bilingual proficiency (Spanish native, advanced English)
-🔸Continuous learner actively pursuing web development certifications (FPGS)
+  - Proven ability to develop internal tools that solve operational bottlenecks (e.g., incident management apps, real-time tracking systems)
+  - Unique perspective from managing technical teams and warehouse/logistics operations
+  - Bilingual proficiency (Spanish native, advanced English)
+  - Continuous learner actively pursuing web development certifications (FPGS)
 
 [![github-foundations](https://github.com/adesduende/adesduende/assets/29408281/277f7725-b0ac-4ec3-9e5d-95cba798344e)](https://www.credly.com/badges/a87d73bf-5dfc-472b-bd9b-d1f928eeadbd/public_url)
 [![github-copilot](https://github.com/user-attachments/assets/b9d00817-2f7d-4d2b-8df5-c868968c80db)](https://www.credly.com/badges/9d97c596-442e-4614-b971-a79fe7237c32/public_url)
